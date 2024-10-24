@@ -59,7 +59,7 @@ latitude:location.coords.latitude
 </MapView>
 }
 
-      
+  
 
     </SafeAreaView>
   </>
