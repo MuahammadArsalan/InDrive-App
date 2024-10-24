@@ -85,4 +85,9 @@ const styles = StyleSheet.create({
     fontSize: 18,
     textAlign: 'center',
   },
+  marker: {
+    fontSize: 18,
+    textAlign: 'center',
+    color:"blue"
+  },
 });
