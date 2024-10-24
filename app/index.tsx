@@ -61,7 +61,6 @@ latitude:location.coords.latitude
 
 
 
-
     </SafeAreaView>
   </>
   );
