@@ -56,7 +56,6 @@ latitude:location.coords.latitude
 }}>
 
 </Marker>
-  
 </MapView>
 }
 
